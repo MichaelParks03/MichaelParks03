@@ -12,8 +12,8 @@ Paste your PC specs, pick a budget and a use case, get a measured bottleneck ana
 **[Mimi's Paws](https://mimispaws.com)**
 Live booking site for a pet care business. Multi visit cart scheduling, pet intake forms, and an owner side accept or reject flow that hands the owner a ready to send confirmation. React, Supabase, Postgres, Netlify.
 
-**[Life Dashboard](https://github.com/MichaelParks03/MoneyManagementDashboard)**
-One dashboard for the things I actually track: finances, investments, meals, workouts, and calendar. Every module writes to a shared data layer, so a logged workout and a logged meal land in the same weekly view instead of in two apps that do not know about each other. Built because the alternative was six apps and no way to see a week at once. [Stack.]
+**[Life Dashboard](https://github.com/MichaelParks03/life-dashboard)**
+One dashboard for the things I actually track: finances, investments, meals, workouts, and calendar. Every module writes to a shared data layer, so a logged workout and a logged meal land in the same weekly view instead of in two apps that do not know about each other. Built because the alternative was six apps and no way to see a week at once. Ships as a single HTML file: vanilla JavaScript, CSS, no build step, no dependencies, runs fully offline.
 
 ## How I build
 
